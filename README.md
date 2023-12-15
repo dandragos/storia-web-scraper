@@ -54,6 +54,6 @@ The user is informed about the successful export of data to the Excel file.
 3) The program will scrape Storia for listings based on the provided criteria.
 4) Results will be displayed, and the data will be exported to an Excel file.
 
-*Note: Please use this script responsibly and in compliance with the terms of use of the target website.*
+*Note: Please use this script responsibly and in compliance with the terms of use of the target website. (It was made for personal use)*
 
 *Made by Dan Dragos*
